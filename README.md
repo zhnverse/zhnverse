@@ -2,7 +2,7 @@
 ### Computer Science Graduate | Software Development & Applied Cryptography
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-007ACC?style=flat&logo=render)](https://ai-portfolio-klrz.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:zhnverse@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:nerob.zahidhasan@gmail.com)
 
 ---
 
@@ -35,5 +35,5 @@
 ---
 
 ### 📬 Connect With Me
-- 📧 **Email:** [zhnverse@gmail.com](mailto:zhnverse@gmail.com)
+- 📧 **Email:** [nerob.zahidhasan@gmail.com](mailto:nerob.zahidhasan@gmail.com)
 - 🌐 **Portfolio:** [ai-portfolio-klrz.onrender.com](https://ai-portfolio-klrz.onrender.com/)

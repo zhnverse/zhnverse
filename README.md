@@ -28,7 +28,7 @@
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
 | **Adversarial-Aware Robust ML (AA-MFS)** | Optimization and defense framework evaluating deep neural networks against gradient-based adversarial attacks (FGSM, PGD, C&W) with Particle Swarm Optimization feature selection. | `PyTorch`, `Adversarial ML`, `XGBoost`, `Scikit-Learn` |
-| **[Diabetes Prediction ML](https://github.com/zhnverse/CSE422-Diabetes-ML-Project)** | Supervised diagnostic classification pipeline covering data preprocessing, exploratory data analysis (EDA), cross-validation, and performance metrics. | `Python`, `Scikit-Learn`, `Pandas`, `Jupyter` |
+| **[Diabetes Prediction ML](https://github.com/zhnverse/diabetes-prediction-ml)** | Supervised diagnostic classification pipeline covering data preprocessing, exploratory data analysis (EDA), cross-validation, and performance metrics. | `Python`, `Scikit-Learn`, `Pandas`, `Jupyter` |
 | **[AI Chatbot Widget](https://github.com/zhnverse/Ai-Chatbot-Widget)** | Lightweight, embeddable conversational AI chat widget designed for drop-in web application integration. | `JavaScript`, `React`, `AI Integration` |
 | **[Restaurant Supply Chain & Inventory Hub](https://github.com/zhnverse/Restaurant-Supply-Chain-and-Inventory-Hub)** | Enterprise supply chain platform managing multi-role vendor dispatch, stock auditing, and transactional inventory tracking. | `PHP`, `Laravel`, `MySQL`, `Blade` |
 | **[Cryptography & Cryptanalysis Suite](https://github.com/zhnverse/cryptography-and-cryptanalysis)** | Algorithmic implementations and cryptanalysis notebooks covering DES, AES, RSA, ECC, and cryptographic hashing. | `Python`, `Algorithms`, `Cryptanalysis` |

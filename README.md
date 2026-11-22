@@ -1,5 +1,5 @@
 # Hi there, I'm Md Zahid Hasan Nerob 👋
-### Computer Science Graduate | AI & Machine Learning Engineer | Cyber Security & Ethical HAcking | Software Developer
+### Computer Science Graduate | AI & Machine Learning Engineer | Cyber Security & Ethical Hacking | Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-007ACC?style=flat&logo=render)](https://ai-portfolio-klrz.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:nerob.zahidhasan@gmail.com)
